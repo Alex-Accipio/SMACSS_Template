@@ -1,7 +1,6 @@
-# SMACSS_Template
-A basic template for SMACSS folder architecture
+# A basic template for SMACSS folder architecture
 
-abstracts/index.php shows how to forward abstracts.
+/abstracts/index.php shows how to forward abstracts.
 
 The styles.scss sheet shows how partials are referenced. 
 
